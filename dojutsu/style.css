@@ -1,0 +1,9 @@
+.main{
+text-align: center;
+font-family: 'Unbounded', cursive;
+font-size: 30px;
+}
+body, html{
+    background: rgb(82,24,24);
+background: linear-gradient(90deg, rgba(82,24,24,1) 0%, rgba(253,130,29,1) 50%, rgba(223,218,41,1) 100%);
+}
